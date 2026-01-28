@@ -1,0 +1,902 @@
+[
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208358,
+    "date":"2025-04-22T19:00:00+00:00",
+    "team":"Manchester City",
+    "opponent":"Aston Villa",
+    "formation":"4-1-4-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208358,
+    "date":"2025-04-22T19:00:00+00:00",
+    "team":"Aston Villa",
+    "opponent":"Manchester City",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208354,
+    "date":"2025-04-23T19:00:00+00:00",
+    "team":"Arsenal",
+    "opponent":"Crystal Palace",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208354,
+    "date":"2025-04-23T19:00:00+00:00",
+    "team":"Crystal Palace",
+    "opponent":"Arsenal",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208356,
+    "date":"2025-04-26T11:30:00+00:00",
+    "team":"Chelsea",
+    "opponent":"Everton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208356,
+    "date":"2025-04-26T11:30:00+00:00",
+    "team":"Everton",
+    "opponent":"Chelsea",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208359,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Newcastle",
+    "opponent":"Ipswich",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208359,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Ipswich",
+    "opponent":"Newcastle",
+    "formation":"4-4-1-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208362,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Wolves",
+    "opponent":"Leicester",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208362,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Leicester",
+    "opponent":"Wolves",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208361,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Southampton",
+    "opponent":"Fulham",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208361,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Fulham",
+    "opponent":"Southampton",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208355,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"Brighton",
+    "opponent":"West Ham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208355,
+    "date":"2025-04-26T14:00:00+00:00",
+    "team":"West Ham",
+    "opponent":"Brighton",
+    "formation":"3-5-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208353,
+    "date":"2025-04-27T13:00:00+00:00",
+    "team":"Bournemouth",
+    "opponent":"Manchester United",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208353,
+    "date":"2025-04-27T13:00:00+00:00",
+    "team":"Manchester United",
+    "opponent":"Bournemouth",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208357,
+    "date":"2025-04-27T15:30:00+00:00",
+    "team":"Liverpool",
+    "opponent":"Tottenham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208357,
+    "date":"2025-04-27T15:30:00+00:00",
+    "team":"Tottenham",
+    "opponent":"Liverpool",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208360,
+    "date":"2025-05-01T18:30:00+00:00",
+    "team":"Nottingham Forest",
+    "opponent":"Brentford",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208360,
+    "date":"2025-05-01T18:30:00+00:00",
+    "team":"Brentford",
+    "opponent":"Nottingham Forest",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208371,
+    "date":"2025-05-02T19:00:00+00:00",
+    "team":"Manchester City",
+    "opponent":"Wolves",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208371,
+    "date":"2025-05-02T19:00:00+00:00",
+    "team":"Wolves",
+    "opponent":"Manchester City",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208364,
+    "date":"2025-05-03T11:30:00+00:00",
+    "team":"Aston Villa",
+    "opponent":"Fulham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208364,
+    "date":"2025-05-03T11:30:00+00:00",
+    "team":"Fulham",
+    "opponent":"Aston Villa",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208369,
+    "date":"2025-05-03T14:00:00+00:00",
+    "team":"Everton",
+    "opponent":"Ipswich",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208369,
+    "date":"2025-05-03T14:00:00+00:00",
+    "team":"Ipswich",
+    "opponent":"Everton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208370,
+    "date":"2025-05-03T14:00:00+00:00",
+    "team":"Leicester",
+    "opponent":"Southampton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208370,
+    "date":"2025-05-03T14:00:00+00:00",
+    "team":"Southampton",
+    "opponent":"Leicester",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208363,
+    "date":"2025-05-03T16:30:00+00:00",
+    "team":"Arsenal",
+    "opponent":"Bournemouth",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208363,
+    "date":"2025-05-03T16:30:00+00:00",
+    "team":"Bournemouth",
+    "opponent":"Arsenal",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208372,
+    "date":"2025-05-04T13:00:00+00:00",
+    "team":"West Ham",
+    "opponent":"Tottenham",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208372,
+    "date":"2025-05-04T13:00:00+00:00",
+    "team":"Tottenham",
+    "opponent":"West Ham",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208366,
+    "date":"2025-05-04T13:00:00+00:00",
+    "team":"Brighton",
+    "opponent":"Newcastle",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208366,
+    "date":"2025-05-04T13:00:00+00:00",
+    "team":"Newcastle",
+    "opponent":"Brighton",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208365,
+    "date":"2025-05-04T13:00:00+00:00",
+    "team":"Brentford",
+    "opponent":"Manchester United",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208365,
+    "date":"2025-05-04T13:00:00+00:00",
+    "team":"Manchester United",
+    "opponent":"Brentford",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208367,
+    "date":"2025-05-04T15:30:00+00:00",
+    "team":"Chelsea",
+    "opponent":"Liverpool",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208367,
+    "date":"2025-05-04T15:30:00+00:00",
+    "team":"Liverpool",
+    "opponent":"Chelsea",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208368,
+    "date":"2025-05-05T19:00:00+00:00",
+    "team":"Crystal Palace",
+    "opponent":"Nottingham Forest",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208368,
+    "date":"2025-05-05T19:00:00+00:00",
+    "team":"Nottingham Forest",
+    "opponent":"Crystal Palace",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208374,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Fulham",
+    "opponent":"Everton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208374,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Everton",
+    "opponent":"Fulham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208382,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Wolves",
+    "opponent":"Brighton",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208382,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Brighton",
+    "opponent":"Wolves",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208380,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Southampton",
+    "opponent":"Manchester City",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208380,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Manchester City",
+    "opponent":"Southampton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208375,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Ipswich",
+    "opponent":"Brentford",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208375,
+    "date":"2025-05-10T14:00:00+00:00",
+    "team":"Brentford",
+    "opponent":"Ipswich",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208373,
+    "date":"2025-05-10T16:30:00+00:00",
+    "team":"Bournemouth",
+    "opponent":"Aston Villa",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208373,
+    "date":"2025-05-10T16:30:00+00:00",
+    "team":"Aston Villa",
+    "opponent":"Bournemouth",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208378,
+    "date":"2025-05-11T11:00:00+00:00",
+    "team":"Newcastle",
+    "opponent":"Chelsea",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208378,
+    "date":"2025-05-11T11:00:00+00:00",
+    "team":"Chelsea",
+    "opponent":"Newcastle",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208377,
+    "date":"2025-05-11T13:15:00+00:00",
+    "team":"Manchester United",
+    "opponent":"West Ham",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208377,
+    "date":"2025-05-11T13:15:00+00:00",
+    "team":"West Ham",
+    "opponent":"Manchester United",
+    "formation":"3-4-1-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208381,
+    "date":"2025-05-11T13:15:00+00:00",
+    "team":"Tottenham",
+    "opponent":"Crystal Palace",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208381,
+    "date":"2025-05-11T13:15:00+00:00",
+    "team":"Crystal Palace",
+    "opponent":"Tottenham",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208379,
+    "date":"2025-05-11T13:15:00+00:00",
+    "team":"Nottingham Forest",
+    "opponent":"Leicester",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208379,
+    "date":"2025-05-11T13:15:00+00:00",
+    "team":"Leicester",
+    "opponent":"Nottingham Forest",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208376,
+    "date":"2025-05-11T15:30:00+00:00",
+    "team":"Liverpool",
+    "opponent":"Arsenal",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208376,
+    "date":"2025-05-11T15:30:00+00:00",
+    "team":"Arsenal",
+    "opponent":"Liverpool",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208384,
+    "date":"2025-05-16T18:30:00+00:00",
+    "team":"Aston Villa",
+    "opponent":"Tottenham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208384,
+    "date":"2025-05-16T18:30:00+00:00",
+    "team":"Tottenham",
+    "opponent":"Aston Villa",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208387,
+    "date":"2025-05-16T19:15:00+00:00",
+    "team":"Chelsea",
+    "opponent":"Manchester United",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208387,
+    "date":"2025-05-16T19:15:00+00:00",
+    "team":"Manchester United",
+    "opponent":"Chelsea",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208389,
+    "date":"2025-05-18T11:00:00+00:00",
+    "team":"Everton",
+    "opponent":"Southampton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208389,
+    "date":"2025-05-18T11:00:00+00:00",
+    "team":"Southampton",
+    "opponent":"Everton",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208392,
+    "date":"2025-05-18T13:15:00+00:00",
+    "team":"West Ham",
+    "opponent":"Nottingham Forest",
+    "formation":"3-4-1-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208392,
+    "date":"2025-05-18T13:15:00+00:00",
+    "team":"Nottingham Forest",
+    "opponent":"West Ham",
+    "formation":"4-3-1-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208390,
+    "date":"2025-05-18T14:00:00+00:00",
+    "team":"Leicester",
+    "opponent":"Ipswich",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208390,
+    "date":"2025-05-18T14:00:00+00:00",
+    "team":"Ipswich",
+    "opponent":"Leicester",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208385,
+    "date":"2025-05-18T14:00:00+00:00",
+    "team":"Brentford",
+    "opponent":"Fulham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208385,
+    "date":"2025-05-18T14:00:00+00:00",
+    "team":"Fulham",
+    "opponent":"Brentford",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208383,
+    "date":"2025-05-18T15:30:00+00:00",
+    "team":"Arsenal",
+    "opponent":"Newcastle",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208383,
+    "date":"2025-05-18T15:30:00+00:00",
+    "team":"Newcastle",
+    "opponent":"Arsenal",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208386,
+    "date":"2025-05-19T19:00:00+00:00",
+    "team":"Brighton",
+    "opponent":"Liverpool",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208386,
+    "date":"2025-05-19T19:00:00+00:00",
+    "team":"Liverpool",
+    "opponent":"Brighton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208391,
+    "date":"2025-05-20T19:00:00+00:00",
+    "team":"Manchester City",
+    "opponent":"Bournemouth",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208391,
+    "date":"2025-05-20T19:00:00+00:00",
+    "team":"Bournemouth",
+    "opponent":"Manchester City",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208388,
+    "date":"2025-05-20T19:00:00+00:00",
+    "team":"Crystal Palace",
+    "opponent":"Wolves",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208388,
+    "date":"2025-05-20T19:00:00+00:00",
+    "team":"Wolves",
+    "opponent":"Crystal Palace",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208397,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Manchester United",
+    "opponent":"Aston Villa",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208397,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Aston Villa",
+    "opponent":"Manchester United",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208398,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Newcastle",
+    "opponent":"Everton",
+    "formation":"3-4-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208398,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Everton",
+    "opponent":"Newcastle",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208393,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Bournemouth",
+    "opponent":"Leicester",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208393,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Leicester",
+    "opponent":"Bournemouth",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208394,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Fulham",
+    "opponent":"Manchester City",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208394,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Manchester City",
+    "opponent":"Fulham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208402,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Wolves",
+    "opponent":"Brentford",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208402,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Brentford",
+    "opponent":"Wolves",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208396,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Liverpool",
+    "opponent":"Crystal Palace",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208396,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Crystal Palace",
+    "opponent":"Liverpool",
+    "formation":"3-4-2-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208400,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Southampton",
+    "opponent":"Arsenal",
+    "formation":"5-4-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208400,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Arsenal",
+    "opponent":"Southampton",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208401,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Tottenham",
+    "opponent":"Brighton",
+    "formation":"4-3-3"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208401,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Brighton",
+    "opponent":"Tottenham",
+    "formation":"4-4-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208395,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Ipswich",
+    "opponent":"West Ham",
+    "formation":"4-2-3-1"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208395,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"West Ham",
+    "opponent":"Ipswich",
+    "formation":"3-1-4-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208399,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Nottingham Forest",
+    "opponent":"Chelsea",
+    "formation":"4-3-1-2"
+  },
+  {
+    "league":"Premier League",
+    "season_year":2024,
+    "fixture_id":1208399,
+    "date":"2025-05-25T15:00:00+00:00",
+    "team":"Chelsea",
+    "opponent":"Nottingham Forest",
+    "formation":"4-2-3-1"
+  }
+]

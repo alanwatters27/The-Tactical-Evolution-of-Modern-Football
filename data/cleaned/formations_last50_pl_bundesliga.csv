@@ -1,0 +1,201 @@
+league,season_year,fixture_id,date,team,opponent,formation
+Premier League,2024,1208358,2025-04-22T19:00:00+00:00,Manchester City,Aston Villa,4-1-4-1
+Premier League,2024,1208358,2025-04-22T19:00:00+00:00,Aston Villa,Manchester City,4-2-3-1
+Premier League,2024,1208354,2025-04-23T19:00:00+00:00,Arsenal,Crystal Palace,4-3-3
+Premier League,2024,1208354,2025-04-23T19:00:00+00:00,Crystal Palace,Arsenal,3-4-2-1
+Premier League,2024,1208356,2025-04-26T11:30:00+00:00,Chelsea,Everton,4-2-3-1
+Premier League,2024,1208356,2025-04-26T11:30:00+00:00,Everton,Chelsea,4-2-3-1
+Premier League,2024,1208359,2025-04-26T14:00:00+00:00,Newcastle,Ipswich,4-3-3
+Premier League,2024,1208359,2025-04-26T14:00:00+00:00,Ipswich,Newcastle,4-4-1-1
+Premier League,2024,1208362,2025-04-26T14:00:00+00:00,Wolves,Leicester,3-4-2-1
+Premier League,2024,1208362,2025-04-26T14:00:00+00:00,Leicester,Wolves,4-2-3-1
+Premier League,2024,1208361,2025-04-26T14:00:00+00:00,Southampton,Fulham,3-4-2-1
+Premier League,2024,1208361,2025-04-26T14:00:00+00:00,Fulham,Southampton,4-3-3
+Premier League,2024,1208355,2025-04-26T14:00:00+00:00,Brighton,West Ham,4-2-3-1
+Premier League,2024,1208355,2025-04-26T14:00:00+00:00,West Ham,Brighton,3-5-2
+Premier League,2024,1208353,2025-04-27T13:00:00+00:00,Bournemouth,Manchester United,4-2-3-1
+Premier League,2024,1208353,2025-04-27T13:00:00+00:00,Manchester United,Bournemouth,3-4-2-1
+Premier League,2024,1208357,2025-04-27T15:30:00+00:00,Liverpool,Tottenham,4-2-3-1
+Premier League,2024,1208357,2025-04-27T15:30:00+00:00,Tottenham,Liverpool,4-3-3
+Premier League,2024,1208360,2025-05-01T18:30:00+00:00,Nottingham Forest,Brentford,4-2-3-1
+Premier League,2024,1208360,2025-05-01T18:30:00+00:00,Brentford,Nottingham Forest,4-2-3-1
+Premier League,2024,1208371,2025-05-02T19:00:00+00:00,Manchester City,Wolves,4-2-3-1
+Premier League,2024,1208371,2025-05-02T19:00:00+00:00,Wolves,Manchester City,3-4-2-1
+Premier League,2024,1208364,2025-05-03T11:30:00+00:00,Aston Villa,Fulham,4-2-3-1
+Premier League,2024,1208364,2025-05-03T11:30:00+00:00,Fulham,Aston Villa,4-2-3-1
+Premier League,2024,1208369,2025-05-03T14:00:00+00:00,Everton,Ipswich,4-2-3-1
+Premier League,2024,1208369,2025-05-03T14:00:00+00:00,Ipswich,Everton,4-2-3-1
+Premier League,2024,1208370,2025-05-03T14:00:00+00:00,Leicester,Southampton,4-2-3-1
+Premier League,2024,1208370,2025-05-03T14:00:00+00:00,Southampton,Leicester,3-4-2-1
+Premier League,2024,1208363,2025-05-03T16:30:00+00:00,Arsenal,Bournemouth,4-3-3
+Premier League,2024,1208363,2025-05-03T16:30:00+00:00,Bournemouth,Arsenal,4-2-3-1
+Premier League,2024,1208372,2025-05-04T13:00:00+00:00,West Ham,Tottenham,3-4-2-1
+Premier League,2024,1208372,2025-05-04T13:00:00+00:00,Tottenham,West Ham,4-3-3
+Premier League,2024,1208366,2025-05-04T13:00:00+00:00,Brighton,Newcastle,4-2-3-1
+Premier League,2024,1208366,2025-05-04T13:00:00+00:00,Newcastle,Brighton,4-3-3
+Premier League,2024,1208365,2025-05-04T13:00:00+00:00,Brentford,Manchester United,4-2-3-1
+Premier League,2024,1208365,2025-05-04T13:00:00+00:00,Manchester United,Brentford,3-4-2-1
+Premier League,2024,1208367,2025-05-04T15:30:00+00:00,Chelsea,Liverpool,4-2-3-1
+Premier League,2024,1208367,2025-05-04T15:30:00+00:00,Liverpool,Chelsea,4-2-3-1
+Premier League,2024,1208368,2025-05-05T19:00:00+00:00,Crystal Palace,Nottingham Forest,3-4-2-1
+Premier League,2024,1208368,2025-05-05T19:00:00+00:00,Nottingham Forest,Crystal Palace,4-2-3-1
+Premier League,2024,1208374,2025-05-10T14:00:00+00:00,Fulham,Everton,4-2-3-1
+Premier League,2024,1208374,2025-05-10T14:00:00+00:00,Everton,Fulham,4-2-3-1
+Premier League,2024,1208382,2025-05-10T14:00:00+00:00,Wolves,Brighton,3-4-2-1
+Premier League,2024,1208382,2025-05-10T14:00:00+00:00,Brighton,Wolves,4-2-3-1
+Premier League,2024,1208380,2025-05-10T14:00:00+00:00,Southampton,Manchester City,3-4-2-1
+Premier League,2024,1208380,2025-05-10T14:00:00+00:00,Manchester City,Southampton,4-2-3-1
+Premier League,2024,1208375,2025-05-10T14:00:00+00:00,Ipswich,Brentford,4-2-3-1
+Premier League,2024,1208375,2025-05-10T14:00:00+00:00,Brentford,Ipswich,4-2-3-1
+Premier League,2024,1208373,2025-05-10T16:30:00+00:00,Bournemouth,Aston Villa,4-2-3-1
+Premier League,2024,1208373,2025-05-10T16:30:00+00:00,Aston Villa,Bournemouth,4-2-3-1
+Premier League,2024,1208378,2025-05-11T11:00:00+00:00,Newcastle,Chelsea,3-4-2-1
+Premier League,2024,1208378,2025-05-11T11:00:00+00:00,Chelsea,Newcastle,4-2-3-1
+Premier League,2024,1208377,2025-05-11T13:15:00+00:00,Manchester United,West Ham,3-4-2-1
+Premier League,2024,1208377,2025-05-11T13:15:00+00:00,West Ham,Manchester United,3-4-1-2
+Premier League,2024,1208381,2025-05-11T13:15:00+00:00,Tottenham,Crystal Palace,4-3-3
+Premier League,2024,1208381,2025-05-11T13:15:00+00:00,Crystal Palace,Tottenham,3-4-2-1
+Premier League,2024,1208379,2025-05-11T13:15:00+00:00,Nottingham Forest,Leicester,4-2-3-1
+Premier League,2024,1208379,2025-05-11T13:15:00+00:00,Leicester,Nottingham Forest,4-2-3-1
+Premier League,2024,1208376,2025-05-11T15:30:00+00:00,Liverpool,Arsenal,4-2-3-1
+Premier League,2024,1208376,2025-05-11T15:30:00+00:00,Arsenal,Liverpool,4-3-3
+Premier League,2024,1208384,2025-05-16T18:30:00+00:00,Aston Villa,Tottenham,4-2-3-1
+Premier League,2024,1208384,2025-05-16T18:30:00+00:00,Tottenham,Aston Villa,4-2-3-1
+Premier League,2024,1208387,2025-05-16T19:15:00+00:00,Chelsea,Manchester United,4-2-3-1
+Premier League,2024,1208387,2025-05-16T19:15:00+00:00,Manchester United,Chelsea,3-4-2-1
+Premier League,2024,1208389,2025-05-18T11:00:00+00:00,Everton,Southampton,4-2-3-1
+Premier League,2024,1208389,2025-05-18T11:00:00+00:00,Southampton,Everton,3-4-2-1
+Premier League,2024,1208392,2025-05-18T13:15:00+00:00,West Ham,Nottingham Forest,3-4-1-2
+Premier League,2024,1208392,2025-05-18T13:15:00+00:00,Nottingham Forest,West Ham,4-3-1-2
+Premier League,2024,1208390,2025-05-18T14:00:00+00:00,Leicester,Ipswich,4-2-3-1
+Premier League,2024,1208390,2025-05-18T14:00:00+00:00,Ipswich,Leicester,4-2-3-1
+Premier League,2024,1208385,2025-05-18T14:00:00+00:00,Brentford,Fulham,4-2-3-1
+Premier League,2024,1208385,2025-05-18T14:00:00+00:00,Fulham,Brentford,4-2-3-1
+Premier League,2024,1208383,2025-05-18T15:30:00+00:00,Arsenal,Newcastle,4-3-3
+Premier League,2024,1208383,2025-05-18T15:30:00+00:00,Newcastle,Arsenal,3-4-2-1
+Premier League,2024,1208386,2025-05-19T19:00:00+00:00,Brighton,Liverpool,4-2-3-1
+Premier League,2024,1208386,2025-05-19T19:00:00+00:00,Liverpool,Brighton,4-2-3-1
+Premier League,2024,1208391,2025-05-20T19:00:00+00:00,Manchester City,Bournemouth,4-2-3-1
+Premier League,2024,1208391,2025-05-20T19:00:00+00:00,Bournemouth,Manchester City,4-2-3-1
+Premier League,2024,1208388,2025-05-20T19:00:00+00:00,Crystal Palace,Wolves,3-4-2-1
+Premier League,2024,1208388,2025-05-20T19:00:00+00:00,Wolves,Crystal Palace,3-4-2-1
+Premier League,2024,1208397,2025-05-25T15:00:00+00:00,Manchester United,Aston Villa,3-4-2-1
+Premier League,2024,1208397,2025-05-25T15:00:00+00:00,Aston Villa,Manchester United,4-2-3-1
+Premier League,2024,1208398,2025-05-25T15:00:00+00:00,Newcastle,Everton,3-4-3
+Premier League,2024,1208398,2025-05-25T15:00:00+00:00,Everton,Newcastle,4-2-3-1
+Premier League,2024,1208393,2025-05-25T15:00:00+00:00,Bournemouth,Leicester,4-2-3-1
+Premier League,2024,1208393,2025-05-25T15:00:00+00:00,Leicester,Bournemouth,4-2-3-1
+Premier League,2024,1208394,2025-05-25T15:00:00+00:00,Fulham,Manchester City,4-2-3-1
+Premier League,2024,1208394,2025-05-25T15:00:00+00:00,Manchester City,Fulham,4-2-3-1
+Premier League,2024,1208402,2025-05-25T15:00:00+00:00,Wolves,Brentford,3-4-2-1
+Premier League,2024,1208402,2025-05-25T15:00:00+00:00,Brentford,Wolves,4-2-3-1
+Premier League,2024,1208396,2025-05-25T15:00:00+00:00,Liverpool,Crystal Palace,4-2-3-1
+Premier League,2024,1208396,2025-05-25T15:00:00+00:00,Crystal Palace,Liverpool,3-4-2-1
+Premier League,2024,1208400,2025-05-25T15:00:00+00:00,Southampton,Arsenal,5-4-1
+Premier League,2024,1208400,2025-05-25T15:00:00+00:00,Arsenal,Southampton,4-2-3-1
+Premier League,2024,1208401,2025-05-25T15:00:00+00:00,Tottenham,Brighton,4-3-3
+Premier League,2024,1208401,2025-05-25T15:00:00+00:00,Brighton,Tottenham,4-4-2
+Premier League,2024,1208395,2025-05-25T15:00:00+00:00,Ipswich,West Ham,4-2-3-1
+Premier League,2024,1208395,2025-05-25T15:00:00+00:00,West Ham,Ipswich,3-1-4-2
+Premier League,2024,1208399,2025-05-25T15:00:00+00:00,Nottingham Forest,Chelsea,4-3-1-2
+Premier League,2024,1208399,2025-05-25T15:00:00+00:00,Chelsea,Nottingham Forest,4-2-3-1
+Bundesliga,2024,1224229,2025-04-12T16:30:00+00:00,Bayern München,Borussia Dortmund,4-2-3-1
+Bundesliga,2024,1224229,2025-04-12T16:30:00+00:00,Borussia Dortmund,Bayern München,3-1-4-2
+Bundesliga,2024,1224228,2025-04-13T13:30:00+00:00,VfB Stuttgart,Werder Bremen,4-2-3-1
+Bundesliga,2024,1224228,2025-04-13T13:30:00+00:00,Werder Bremen,VfB Stuttgart,3-5-2
+Bundesliga,2024,1224230,2025-04-13T15:30:00+00:00,Eintracht Frankfurt,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1224230,2025-04-13T15:30:00+00:00,1. FC Heidenheim,Eintracht Frankfurt,3-1-4-2
+Bundesliga,2024,1224240,2025-04-19T13:30:00+00:00,SC Freiburg,1899 Hoffenheim,4-4-1-1
+Bundesliga,2024,1224240,2025-04-19T13:30:00+00:00,1899 Hoffenheim,SC Freiburg,3-4-2-1
+Bundesliga,2024,1224239,2025-04-19T13:30:00+00:00,Werder Bremen,VfL Bochum,3-5-2
+Bundesliga,2024,1224239,2025-04-19T13:30:00+00:00,VfL Bochum,Werder Bremen,3-4-3
+Bundesliga,2024,1224242,2025-04-19T13:30:00+00:00,FSV Mainz 05,VfL Wolfsburg,3-4-1-2
+Bundesliga,2024,1224242,2025-04-19T13:30:00+00:00,VfL Wolfsburg,FSV Mainz 05,3-5-2
+Bundesliga,2024,1224236,2025-04-19T13:30:00+00:00,RB Leipzig,Holstein Kiel,4-4-2
+Bundesliga,2024,1224236,2025-04-19T13:30:00+00:00,Holstein Kiel,RB Leipzig,3-4-3
+Bundesliga,2024,1224238,2025-04-19T13:30:00+00:00,1. FC Heidenheim,Bayern München,4-3-1-2
+Bundesliga,2024,1224238,2025-04-19T13:30:00+00:00,Bayern München,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1224243,2025-04-19T16:30:00+00:00,Union Berlin,VfB Stuttgart,3-5-2
+Bundesliga,2024,1224243,2025-04-19T16:30:00+00:00,VfB Stuttgart,Union Berlin,4-2-3-1
+Bundesliga,2024,1224241,2025-04-20T13:30:00+00:00,FC Augsburg,Eintracht Frankfurt,3-4-2-1
+Bundesliga,2024,1224241,2025-04-20T13:30:00+00:00,Eintracht Frankfurt,FC Augsburg,3-5-2
+Bundesliga,2024,1224237,2025-04-20T15:30:00+00:00,Borussia Dortmund,Borussia Mönchengladbach,3-4-2-1
+Bundesliga,2024,1224237,2025-04-20T15:30:00+00:00,Borussia Mönchengladbach,Borussia Dortmund,4-2-3-1
+Bundesliga,2024,1224244,2025-04-20T17:30:00+00:00,FC St. Pauli,Bayer Leverkusen,3-4-3
+Bundesliga,2024,1224244,2025-04-20T17:30:00+00:00,Bayer Leverkusen,FC St. Pauli,3-4-2-1
+Bundesliga,2024,1224246,2025-04-25T18:30:00+00:00,VfB Stuttgart,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1224246,2025-04-25T18:30:00+00:00,1. FC Heidenheim,VfB Stuttgart,5-3-2
+Bundesliga,2024,1224247,2025-04-26T13:30:00+00:00,Bayern München,FSV Mainz 05,4-2-2-2
+Bundesliga,2024,1224247,2025-04-26T13:30:00+00:00,FSV Mainz 05,Bayern München,3-4-2-1
+Bundesliga,2024,1224251,2025-04-26T13:30:00+00:00,VfL Wolfsburg,SC Freiburg,3-5-2
+Bundesliga,2024,1224251,2025-04-26T13:30:00+00:00,SC Freiburg,VfL Wolfsburg,4-4-1-1
+Bundesliga,2024,1224249,2025-04-26T13:30:00+00:00,1899 Hoffenheim,Borussia Dortmund,3-4-2-1
+Bundesliga,2024,1224249,2025-04-26T13:30:00+00:00,Borussia Dortmund,1899 Hoffenheim,3-4-2-1
+Bundesliga,2024,1224245,2025-04-26T13:30:00+00:00,Bayer Leverkusen,FC Augsburg,4-4-1-1
+Bundesliga,2024,1224245,2025-04-26T13:30:00+00:00,FC Augsburg,Bayer Leverkusen,3-4-2-1
+Bundesliga,2024,1224253,2025-04-26T13:30:00+00:00,Holstein Kiel,Borussia Mönchengladbach,3-4-1-2
+Bundesliga,2024,1224253,2025-04-26T13:30:00+00:00,Borussia Mönchengladbach,Holstein Kiel,4-2-3-1
+Bundesliga,2024,1224248,2025-04-26T16:30:00+00:00,Eintracht Frankfurt,RB Leipzig,3-4-2-1
+Bundesliga,2024,1224248,2025-04-26T16:30:00+00:00,RB Leipzig,Eintracht Frankfurt,3-5-1-1
+Bundesliga,2024,1224252,2025-04-27T13:30:00+00:00,VfL Bochum,Union Berlin,3-4-1-2
+Bundesliga,2024,1224252,2025-04-27T13:30:00+00:00,Union Berlin,VfL Bochum,3-5-2
+Bundesliga,2024,1224250,2025-04-27T15:30:00+00:00,Werder Bremen,FC St. Pauli,3-4-2-1
+Bundesliga,2024,1224250,2025-04-27T15:30:00+00:00,FC St. Pauli,Werder Bremen,3-4-2-1
+Bundesliga,2024,1224256,2025-05-02T18:30:00+00:00,1. FC Heidenheim,VfL Bochum,3-4-2-1
+Bundesliga,2024,1224256,2025-05-02T18:30:00+00:00,VfL Bochum,1. FC Heidenheim,3-1-4-2
+Bundesliga,2024,1224260,2025-05-03T13:30:00+00:00,Borussia Mönchengladbach,1899 Hoffenheim,4-2-3-1
+Bundesliga,2024,1224260,2025-05-03T13:30:00+00:00,1899 Hoffenheim,Borussia Mönchengladbach,3-4-2-1
+Bundesliga,2024,1224254,2025-05-03T13:30:00+00:00,RB Leipzig,Bayern München,4-4-2
+Bundesliga,2024,1224254,2025-05-03T13:30:00+00:00,Bayern München,RB Leipzig,4-4-2
+Bundesliga,2024,1224261,2025-05-03T13:30:00+00:00,Union Berlin,Werder Bremen,3-5-2
+Bundesliga,2024,1224261,2025-05-03T13:30:00+00:00,Werder Bremen,Union Berlin,3-5-2
+Bundesliga,2024,1224262,2025-05-03T13:30:00+00:00,FC St. Pauli,VfB Stuttgart,3-4-3
+Bundesliga,2024,1224262,2025-05-03T13:30:00+00:00,VfB Stuttgart,FC St. Pauli,4-2-3-1
+Bundesliga,2024,1224255,2025-05-03T16:30:00+00:00,Borussia Dortmund,VfL Wolfsburg,3-4-2-1
+Bundesliga,2024,1224255,2025-05-03T16:30:00+00:00,VfL Wolfsburg,Borussia Dortmund,3-5-2
+Bundesliga,2024,1224258,2025-05-04T13:30:00+00:00,FC Augsburg,Holstein Kiel,3-4-2-1
+Bundesliga,2024,1224258,2025-05-04T13:30:00+00:00,Holstein Kiel,FC Augsburg,3-4-1-2
+Bundesliga,2024,1224257,2025-05-04T15:30:00+00:00,SC Freiburg,Bayer Leverkusen,4-4-1-1
+Bundesliga,2024,1224257,2025-05-04T15:30:00+00:00,Bayer Leverkusen,SC Freiburg,3-4-2-1
+Bundesliga,2024,1224259,2025-05-04T17:30:00+00:00,FSV Mainz 05,Eintracht Frankfurt,3-4-2-1
+Bundesliga,2024,1224259,2025-05-04T17:30:00+00:00,Eintracht Frankfurt,FSV Mainz 05,3-4-2-1
+Bundesliga,2024,1224268,2025-05-09T18:30:00+00:00,VfL Wolfsburg,1899 Hoffenheim,4-1-4-1
+Bundesliga,2024,1224268,2025-05-09T18:30:00+00:00,1899 Hoffenheim,VfL Wolfsburg,3-1-4-2
+Bundesliga,2024,1224267,2025-05-10T13:30:00+00:00,Werder Bremen,RB Leipzig,3-5-2
+Bundesliga,2024,1224267,2025-05-10T13:30:00+00:00,RB Leipzig,Werder Bremen,4-4-2
+Bundesliga,2024,1224270,2025-05-10T13:30:00+00:00,VfL Bochum,FSV Mainz 05,3-1-4-2
+Bundesliga,2024,1224270,2025-05-10T13:30:00+00:00,FSV Mainz 05,VfL Bochum,3-4-2-1
+Bundesliga,2024,1224269,2025-05-10T13:30:00+00:00,Union Berlin,1. FC Heidenheim,3-4-1-2
+Bundesliga,2024,1224269,2025-05-10T13:30:00+00:00,1. FC Heidenheim,Union Berlin,3-4-2-1
+Bundesliga,2024,1224271,2025-05-10T13:30:00+00:00,Holstein Kiel,SC Freiburg,3-4-1-2
+Bundesliga,2024,1224271,2025-05-10T13:30:00+00:00,SC Freiburg,Holstein Kiel,4-4-1-1
+Bundesliga,2024,1224265,2025-05-10T16:30:00+00:00,Bayern München,Borussia Mönchengladbach,4-2-3-1
+Bundesliga,2024,1224265,2025-05-10T16:30:00+00:00,Borussia Mönchengladbach,Bayern München,4-1-4-1
+Bundesliga,2024,1224263,2025-05-11T13:30:00+00:00,Bayer Leverkusen,Borussia Dortmund,3-4-2-1
+Bundesliga,2024,1224263,2025-05-11T13:30:00+00:00,Borussia Dortmund,Bayer Leverkusen,3-4-2-1
+Bundesliga,2024,1224266,2025-05-11T15:30:00+00:00,Eintracht Frankfurt,FC St. Pauli,3-4-2-1
+Bundesliga,2024,1224266,2025-05-11T15:30:00+00:00,FC St. Pauli,Eintracht Frankfurt,3-4-2-1
+Bundesliga,2024,1224264,2025-05-11T17:30:00+00:00,VfB Stuttgart,FC Augsburg,4-2-3-1
+Bundesliga,2024,1224264,2025-05-11T17:30:00+00:00,FC Augsburg,VfB Stuttgart,3-4-2-1
+Bundesliga,2024,1224276,2025-05-17T13:30:00+00:00,SC Freiburg,Eintracht Frankfurt,4-4-1-1
+Bundesliga,2024,1224276,2025-05-17T13:30:00+00:00,Eintracht Frankfurt,SC Freiburg,3-4-2-1
+Bundesliga,2024,1224279,2025-05-17T13:30:00+00:00,Borussia Mönchengladbach,VfL Wolfsburg,4-3-3
+Bundesliga,2024,1224279,2025-05-17T13:30:00+00:00,VfL Wolfsburg,Borussia Mönchengladbach,4-3-3
+Bundesliga,2024,1224278,2025-05-17T13:30:00+00:00,FSV Mainz 05,Bayer Leverkusen,3-4-2-1
+Bundesliga,2024,1224278,2025-05-17T13:30:00+00:00,Bayer Leverkusen,FSV Mainz 05,3-4-2-1
+Bundesliga,2024,1224273,2025-05-17T13:30:00+00:00,Borussia Dortmund,Holstein Kiel,3-4-2-1
+Bundesliga,2024,1224273,2025-05-17T13:30:00+00:00,Holstein Kiel,Borussia Dortmund,3-4-2-1
+Bundesliga,2024,1224274,2025-05-17T13:30:00+00:00,1899 Hoffenheim,Bayern München,3-4-2-1
+Bundesliga,2024,1224274,2025-05-17T13:30:00+00:00,Bayern München,1899 Hoffenheim,4-2-3-1
+Bundesliga,2024,1224277,2025-05-17T13:30:00+00:00,FC Augsburg,Union Berlin,3-4-2-1
+Bundesliga,2024,1224277,2025-05-17T13:30:00+00:00,Union Berlin,FC Augsburg,3-4-2-1
+Bundesliga,2024,1224272,2025-05-17T13:30:00+00:00,RB Leipzig,VfB Stuttgart,4-2-2-2
+Bundesliga,2024,1224272,2025-05-17T13:30:00+00:00,VfB Stuttgart,RB Leipzig,3-4-2-1
+Bundesliga,2024,1224275,2025-05-17T13:30:00+00:00,1. FC Heidenheim,Werder Bremen,3-4-2-1
+Bundesliga,2024,1224275,2025-05-17T13:30:00+00:00,Werder Bremen,1. FC Heidenheim,3-5-2
+Bundesliga,2024,1224280,2025-05-17T13:30:00+00:00,FC St. Pauli,VfL Bochum,3-4-3
+Bundesliga,2024,1224280,2025-05-17T13:30:00+00:00,VfL Bochum,FC St. Pauli,3-5-2
+Bundesliga,2024,1375862,2025-05-22T18:30:00+00:00,1. FC Heidenheim,SV Elversberg,3-5-2
+Bundesliga,2024,1375862,2025-05-22T18:30:00+00:00,SV Elversberg,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1375863,2025-05-26T18:30:00+00:00,SV Elversberg,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1375863,2025-05-26T18:30:00+00:00,1. FC Heidenheim,SV Elversberg,3-1-4-2

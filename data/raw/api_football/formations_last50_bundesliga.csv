@@ -1,0 +1,101 @@
+league,season_year,fixture_id,date,team,opponent,formation
+Bundesliga,2024,1224229,2025-04-12T16:30:00+00:00,Bayern München,Borussia Dortmund,4-2-3-1
+Bundesliga,2024,1224229,2025-04-12T16:30:00+00:00,Borussia Dortmund,Bayern München,3-1-4-2
+Bundesliga,2024,1224228,2025-04-13T13:30:00+00:00,VfB Stuttgart,Werder Bremen,4-2-3-1
+Bundesliga,2024,1224228,2025-04-13T13:30:00+00:00,Werder Bremen,VfB Stuttgart,3-5-2
+Bundesliga,2024,1224230,2025-04-13T15:30:00+00:00,Eintracht Frankfurt,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1224230,2025-04-13T15:30:00+00:00,1. FC Heidenheim,Eintracht Frankfurt,3-1-4-2
+Bundesliga,2024,1224240,2025-04-19T13:30:00+00:00,SC Freiburg,1899 Hoffenheim,4-4-1-1
+Bundesliga,2024,1224240,2025-04-19T13:30:00+00:00,1899 Hoffenheim,SC Freiburg,3-4-2-1
+Bundesliga,2024,1224239,2025-04-19T13:30:00+00:00,Werder Bremen,VfL Bochum,3-5-2
+Bundesliga,2024,1224239,2025-04-19T13:30:00+00:00,VfL Bochum,Werder Bremen,3-4-3
+Bundesliga,2024,1224242,2025-04-19T13:30:00+00:00,FSV Mainz 05,VfL Wolfsburg,3-4-1-2
+Bundesliga,2024,1224242,2025-04-19T13:30:00+00:00,VfL Wolfsburg,FSV Mainz 05,3-5-2
+Bundesliga,2024,1224236,2025-04-19T13:30:00+00:00,RB Leipzig,Holstein Kiel,4-4-2
+Bundesliga,2024,1224236,2025-04-19T13:30:00+00:00,Holstein Kiel,RB Leipzig,3-4-3
+Bundesliga,2024,1224238,2025-04-19T13:30:00+00:00,1. FC Heidenheim,Bayern München,4-3-1-2
+Bundesliga,2024,1224238,2025-04-19T13:30:00+00:00,Bayern München,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1224243,2025-04-19T16:30:00+00:00,Union Berlin,VfB Stuttgart,3-5-2
+Bundesliga,2024,1224243,2025-04-19T16:30:00+00:00,VfB Stuttgart,Union Berlin,4-2-3-1
+Bundesliga,2024,1224241,2025-04-20T13:30:00+00:00,FC Augsburg,Eintracht Frankfurt,3-4-2-1
+Bundesliga,2024,1224241,2025-04-20T13:30:00+00:00,Eintracht Frankfurt,FC Augsburg,3-5-2
+Bundesliga,2024,1224237,2025-04-20T15:30:00+00:00,Borussia Dortmund,Borussia Mönchengladbach,3-4-2-1
+Bundesliga,2024,1224237,2025-04-20T15:30:00+00:00,Borussia Mönchengladbach,Borussia Dortmund,4-2-3-1
+Bundesliga,2024,1224244,2025-04-20T17:30:00+00:00,FC St. Pauli,Bayer Leverkusen,3-4-3
+Bundesliga,2024,1224244,2025-04-20T17:30:00+00:00,Bayer Leverkusen,FC St. Pauli,3-4-2-1
+Bundesliga,2024,1224246,2025-04-25T18:30:00+00:00,VfB Stuttgart,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1224246,2025-04-25T18:30:00+00:00,1. FC Heidenheim,VfB Stuttgart,5-3-2
+Bundesliga,2024,1224247,2025-04-26T13:30:00+00:00,Bayern München,FSV Mainz 05,4-2-2-2
+Bundesliga,2024,1224247,2025-04-26T13:30:00+00:00,FSV Mainz 05,Bayern München,3-4-2-1
+Bundesliga,2024,1224251,2025-04-26T13:30:00+00:00,VfL Wolfsburg,SC Freiburg,3-5-2
+Bundesliga,2024,1224251,2025-04-26T13:30:00+00:00,SC Freiburg,VfL Wolfsburg,4-4-1-1
+Bundesliga,2024,1224249,2025-04-26T13:30:00+00:00,1899 Hoffenheim,Borussia Dortmund,3-4-2-1
+Bundesliga,2024,1224249,2025-04-26T13:30:00+00:00,Borussia Dortmund,1899 Hoffenheim,3-4-2-1
+Bundesliga,2024,1224245,2025-04-26T13:30:00+00:00,Bayer Leverkusen,FC Augsburg,4-4-1-1
+Bundesliga,2024,1224245,2025-04-26T13:30:00+00:00,FC Augsburg,Bayer Leverkusen,3-4-2-1
+Bundesliga,2024,1224253,2025-04-26T13:30:00+00:00,Holstein Kiel,Borussia Mönchengladbach,3-4-1-2
+Bundesliga,2024,1224253,2025-04-26T13:30:00+00:00,Borussia Mönchengladbach,Holstein Kiel,4-2-3-1
+Bundesliga,2024,1224248,2025-04-26T16:30:00+00:00,Eintracht Frankfurt,RB Leipzig,3-4-2-1
+Bundesliga,2024,1224248,2025-04-26T16:30:00+00:00,RB Leipzig,Eintracht Frankfurt,3-5-1-1
+Bundesliga,2024,1224252,2025-04-27T13:30:00+00:00,VfL Bochum,Union Berlin,3-4-1-2
+Bundesliga,2024,1224252,2025-04-27T13:30:00+00:00,Union Berlin,VfL Bochum,3-5-2
+Bundesliga,2024,1224250,2025-04-27T15:30:00+00:00,Werder Bremen,FC St. Pauli,3-4-2-1
+Bundesliga,2024,1224250,2025-04-27T15:30:00+00:00,FC St. Pauli,Werder Bremen,3-4-2-1
+Bundesliga,2024,1224256,2025-05-02T18:30:00+00:00,1. FC Heidenheim,VfL Bochum,3-4-2-1
+Bundesliga,2024,1224256,2025-05-02T18:30:00+00:00,VfL Bochum,1. FC Heidenheim,3-1-4-2
+Bundesliga,2024,1224260,2025-05-03T13:30:00+00:00,Borussia Mönchengladbach,1899 Hoffenheim,4-2-3-1
+Bundesliga,2024,1224260,2025-05-03T13:30:00+00:00,1899 Hoffenheim,Borussia Mönchengladbach,3-4-2-1
+Bundesliga,2024,1224254,2025-05-03T13:30:00+00:00,RB Leipzig,Bayern München,4-4-2
+Bundesliga,2024,1224254,2025-05-03T13:30:00+00:00,Bayern München,RB Leipzig,4-4-2
+Bundesliga,2024,1224261,2025-05-03T13:30:00+00:00,Union Berlin,Werder Bremen,3-5-2
+Bundesliga,2024,1224261,2025-05-03T13:30:00+00:00,Werder Bremen,Union Berlin,3-5-2
+Bundesliga,2024,1224262,2025-05-03T13:30:00+00:00,FC St. Pauli,VfB Stuttgart,3-4-3
+Bundesliga,2024,1224262,2025-05-03T13:30:00+00:00,VfB Stuttgart,FC St. Pauli,4-2-3-1
+Bundesliga,2024,1224255,2025-05-03T16:30:00+00:00,Borussia Dortmund,VfL Wolfsburg,3-4-2-1
+Bundesliga,2024,1224255,2025-05-03T16:30:00+00:00,VfL Wolfsburg,Borussia Dortmund,3-5-2
+Bundesliga,2024,1224258,2025-05-04T13:30:00+00:00,FC Augsburg,Holstein Kiel,3-4-2-1
+Bundesliga,2024,1224258,2025-05-04T13:30:00+00:00,Holstein Kiel,FC Augsburg,3-4-1-2
+Bundesliga,2024,1224257,2025-05-04T15:30:00+00:00,SC Freiburg,Bayer Leverkusen,4-4-1-1
+Bundesliga,2024,1224257,2025-05-04T15:30:00+00:00,Bayer Leverkusen,SC Freiburg,3-4-2-1
+Bundesliga,2024,1224259,2025-05-04T17:30:00+00:00,FSV Mainz 05,Eintracht Frankfurt,3-4-2-1
+Bundesliga,2024,1224259,2025-05-04T17:30:00+00:00,Eintracht Frankfurt,FSV Mainz 05,3-4-2-1
+Bundesliga,2024,1224268,2025-05-09T18:30:00+00:00,VfL Wolfsburg,1899 Hoffenheim,4-1-4-1
+Bundesliga,2024,1224268,2025-05-09T18:30:00+00:00,1899 Hoffenheim,VfL Wolfsburg,3-1-4-2
+Bundesliga,2024,1224267,2025-05-10T13:30:00+00:00,Werder Bremen,RB Leipzig,3-5-2
+Bundesliga,2024,1224267,2025-05-10T13:30:00+00:00,RB Leipzig,Werder Bremen,4-4-2
+Bundesliga,2024,1224270,2025-05-10T13:30:00+00:00,VfL Bochum,FSV Mainz 05,3-1-4-2
+Bundesliga,2024,1224270,2025-05-10T13:30:00+00:00,FSV Mainz 05,VfL Bochum,3-4-2-1
+Bundesliga,2024,1224269,2025-05-10T13:30:00+00:00,Union Berlin,1. FC Heidenheim,3-4-1-2
+Bundesliga,2024,1224269,2025-05-10T13:30:00+00:00,1. FC Heidenheim,Union Berlin,3-4-2-1
+Bundesliga,2024,1224271,2025-05-10T13:30:00+00:00,Holstein Kiel,SC Freiburg,3-4-1-2
+Bundesliga,2024,1224271,2025-05-10T13:30:00+00:00,SC Freiburg,Holstein Kiel,4-4-1-1
+Bundesliga,2024,1224265,2025-05-10T16:30:00+00:00,Bayern München,Borussia Mönchengladbach,4-2-3-1
+Bundesliga,2024,1224265,2025-05-10T16:30:00+00:00,Borussia Mönchengladbach,Bayern München,4-1-4-1
+Bundesliga,2024,1224263,2025-05-11T13:30:00+00:00,Bayer Leverkusen,Borussia Dortmund,3-4-2-1
+Bundesliga,2024,1224263,2025-05-11T13:30:00+00:00,Borussia Dortmund,Bayer Leverkusen,3-4-2-1
+Bundesliga,2024,1224266,2025-05-11T15:30:00+00:00,Eintracht Frankfurt,FC St. Pauli,3-4-2-1
+Bundesliga,2024,1224266,2025-05-11T15:30:00+00:00,FC St. Pauli,Eintracht Frankfurt,3-4-2-1
+Bundesliga,2024,1224264,2025-05-11T17:30:00+00:00,VfB Stuttgart,FC Augsburg,4-2-3-1
+Bundesliga,2024,1224264,2025-05-11T17:30:00+00:00,FC Augsburg,VfB Stuttgart,3-4-2-1
+Bundesliga,2024,1224276,2025-05-17T13:30:00+00:00,SC Freiburg,Eintracht Frankfurt,4-4-1-1
+Bundesliga,2024,1224276,2025-05-17T13:30:00+00:00,Eintracht Frankfurt,SC Freiburg,3-4-2-1
+Bundesliga,2024,1224279,2025-05-17T13:30:00+00:00,Borussia Mönchengladbach,VfL Wolfsburg,4-3-3
+Bundesliga,2024,1224279,2025-05-17T13:30:00+00:00,VfL Wolfsburg,Borussia Mönchengladbach,4-3-3
+Bundesliga,2024,1224278,2025-05-17T13:30:00+00:00,FSV Mainz 05,Bayer Leverkusen,3-4-2-1
+Bundesliga,2024,1224278,2025-05-17T13:30:00+00:00,Bayer Leverkusen,FSV Mainz 05,3-4-2-1
+Bundesliga,2024,1224273,2025-05-17T13:30:00+00:00,Borussia Dortmund,Holstein Kiel,3-4-2-1
+Bundesliga,2024,1224273,2025-05-17T13:30:00+00:00,Holstein Kiel,Borussia Dortmund,3-4-2-1
+Bundesliga,2024,1224274,2025-05-17T13:30:00+00:00,1899 Hoffenheim,Bayern München,3-4-2-1
+Bundesliga,2024,1224274,2025-05-17T13:30:00+00:00,Bayern München,1899 Hoffenheim,4-2-3-1
+Bundesliga,2024,1224277,2025-05-17T13:30:00+00:00,FC Augsburg,Union Berlin,3-4-2-1
+Bundesliga,2024,1224277,2025-05-17T13:30:00+00:00,Union Berlin,FC Augsburg,3-4-2-1
+Bundesliga,2024,1224272,2025-05-17T13:30:00+00:00,RB Leipzig,VfB Stuttgart,4-2-2-2
+Bundesliga,2024,1224272,2025-05-17T13:30:00+00:00,VfB Stuttgart,RB Leipzig,3-4-2-1
+Bundesliga,2024,1224275,2025-05-17T13:30:00+00:00,1. FC Heidenheim,Werder Bremen,3-4-2-1
+Bundesliga,2024,1224275,2025-05-17T13:30:00+00:00,Werder Bremen,1. FC Heidenheim,3-5-2
+Bundesliga,2024,1224280,2025-05-17T13:30:00+00:00,FC St. Pauli,VfL Bochum,3-4-3
+Bundesliga,2024,1224280,2025-05-17T13:30:00+00:00,VfL Bochum,FC St. Pauli,3-5-2
+Bundesliga,2024,1375862,2025-05-22T18:30:00+00:00,1. FC Heidenheim,SV Elversberg,3-5-2
+Bundesliga,2024,1375862,2025-05-22T18:30:00+00:00,SV Elversberg,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1375863,2025-05-26T18:30:00+00:00,SV Elversberg,1. FC Heidenheim,4-2-3-1
+Bundesliga,2024,1375863,2025-05-26T18:30:00+00:00,1. FC Heidenheim,SV Elversberg,3-1-4-2

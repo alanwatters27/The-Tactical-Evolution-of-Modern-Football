@@ -1,0 +1,101 @@
+league,season_year,fixture_id,date,team,opponent,formation
+Premier League,2024,1208358,2025-04-22T19:00:00+00:00,Manchester City,Aston Villa,4-1-4-1
+Premier League,2024,1208358,2025-04-22T19:00:00+00:00,Aston Villa,Manchester City,4-2-3-1
+Premier League,2024,1208354,2025-04-23T19:00:00+00:00,Arsenal,Crystal Palace,4-3-3
+Premier League,2024,1208354,2025-04-23T19:00:00+00:00,Crystal Palace,Arsenal,3-4-2-1
+Premier League,2024,1208356,2025-04-26T11:30:00+00:00,Chelsea,Everton,4-2-3-1
+Premier League,2024,1208356,2025-04-26T11:30:00+00:00,Everton,Chelsea,4-2-3-1
+Premier League,2024,1208359,2025-04-26T14:00:00+00:00,Newcastle,Ipswich,4-3-3
+Premier League,2024,1208359,2025-04-26T14:00:00+00:00,Ipswich,Newcastle,4-4-1-1
+Premier League,2024,1208362,2025-04-26T14:00:00+00:00,Wolves,Leicester,3-4-2-1
+Premier League,2024,1208362,2025-04-26T14:00:00+00:00,Leicester,Wolves,4-2-3-1
+Premier League,2024,1208361,2025-04-26T14:00:00+00:00,Southampton,Fulham,3-4-2-1
+Premier League,2024,1208361,2025-04-26T14:00:00+00:00,Fulham,Southampton,4-3-3
+Premier League,2024,1208355,2025-04-26T14:00:00+00:00,Brighton,West Ham,4-2-3-1
+Premier League,2024,1208355,2025-04-26T14:00:00+00:00,West Ham,Brighton,3-5-2
+Premier League,2024,1208353,2025-04-27T13:00:00+00:00,Bournemouth,Manchester United,4-2-3-1
+Premier League,2024,1208353,2025-04-27T13:00:00+00:00,Manchester United,Bournemouth,3-4-2-1
+Premier League,2024,1208357,2025-04-27T15:30:00+00:00,Liverpool,Tottenham,4-2-3-1
+Premier League,2024,1208357,2025-04-27T15:30:00+00:00,Tottenham,Liverpool,4-3-3
+Premier League,2024,1208360,2025-05-01T18:30:00+00:00,Nottingham Forest,Brentford,4-2-3-1
+Premier League,2024,1208360,2025-05-01T18:30:00+00:00,Brentford,Nottingham Forest,4-2-3-1
+Premier League,2024,1208371,2025-05-02T19:00:00+00:00,Manchester City,Wolves,4-2-3-1
+Premier League,2024,1208371,2025-05-02T19:00:00+00:00,Wolves,Manchester City,3-4-2-1
+Premier League,2024,1208364,2025-05-03T11:30:00+00:00,Aston Villa,Fulham,4-2-3-1
+Premier League,2024,1208364,2025-05-03T11:30:00+00:00,Fulham,Aston Villa,4-2-3-1
+Premier League,2024,1208369,2025-05-03T14:00:00+00:00,Everton,Ipswich,4-2-3-1
+Premier League,2024,1208369,2025-05-03T14:00:00+00:00,Ipswich,Everton,4-2-3-1
+Premier League,2024,1208370,2025-05-03T14:00:00+00:00,Leicester,Southampton,4-2-3-1
+Premier League,2024,1208370,2025-05-03T14:00:00+00:00,Southampton,Leicester,3-4-2-1
+Premier League,2024,1208363,2025-05-03T16:30:00+00:00,Arsenal,Bournemouth,4-3-3
+Premier League,2024,1208363,2025-05-03T16:30:00+00:00,Bournemouth,Arsenal,4-2-3-1
+Premier League,2024,1208372,2025-05-04T13:00:00+00:00,West Ham,Tottenham,3-4-2-1
+Premier League,2024,1208372,2025-05-04T13:00:00+00:00,Tottenham,West Ham,4-3-3
+Premier League,2024,1208366,2025-05-04T13:00:00+00:00,Brighton,Newcastle,4-2-3-1
+Premier League,2024,1208366,2025-05-04T13:00:00+00:00,Newcastle,Brighton,4-3-3
+Premier League,2024,1208365,2025-05-04T13:00:00+00:00,Brentford,Manchester United,4-2-3-1
+Premier League,2024,1208365,2025-05-04T13:00:00+00:00,Manchester United,Brentford,3-4-2-1
+Premier League,2024,1208367,2025-05-04T15:30:00+00:00,Chelsea,Liverpool,4-2-3-1
+Premier League,2024,1208367,2025-05-04T15:30:00+00:00,Liverpool,Chelsea,4-2-3-1
+Premier League,2024,1208368,2025-05-05T19:00:00+00:00,Crystal Palace,Nottingham Forest,3-4-2-1
+Premier League,2024,1208368,2025-05-05T19:00:00+00:00,Nottingham Forest,Crystal Palace,4-2-3-1
+Premier League,2024,1208374,2025-05-10T14:00:00+00:00,Fulham,Everton,4-2-3-1
+Premier League,2024,1208374,2025-05-10T14:00:00+00:00,Everton,Fulham,4-2-3-1
+Premier League,2024,1208382,2025-05-10T14:00:00+00:00,Wolves,Brighton,3-4-2-1
+Premier League,2024,1208382,2025-05-10T14:00:00+00:00,Brighton,Wolves,4-2-3-1
+Premier League,2024,1208380,2025-05-10T14:00:00+00:00,Southampton,Manchester City,3-4-2-1
+Premier League,2024,1208380,2025-05-10T14:00:00+00:00,Manchester City,Southampton,4-2-3-1
+Premier League,2024,1208375,2025-05-10T14:00:00+00:00,Ipswich,Brentford,4-2-3-1
+Premier League,2024,1208375,2025-05-10T14:00:00+00:00,Brentford,Ipswich,4-2-3-1
+Premier League,2024,1208373,2025-05-10T16:30:00+00:00,Bournemouth,Aston Villa,4-2-3-1
+Premier League,2024,1208373,2025-05-10T16:30:00+00:00,Aston Villa,Bournemouth,4-2-3-1
+Premier League,2024,1208378,2025-05-11T11:00:00+00:00,Newcastle,Chelsea,3-4-2-1
+Premier League,2024,1208378,2025-05-11T11:00:00+00:00,Chelsea,Newcastle,4-2-3-1
+Premier League,2024,1208377,2025-05-11T13:15:00+00:00,Manchester United,West Ham,3-4-2-1
+Premier League,2024,1208377,2025-05-11T13:15:00+00:00,West Ham,Manchester United,3-4-1-2
+Premier League,2024,1208381,2025-05-11T13:15:00+00:00,Tottenham,Crystal Palace,4-3-3
+Premier League,2024,1208381,2025-05-11T13:15:00+00:00,Crystal Palace,Tottenham,3-4-2-1
+Premier League,2024,1208379,2025-05-11T13:15:00+00:00,Nottingham Forest,Leicester,4-2-3-1
+Premier League,2024,1208379,2025-05-11T13:15:00+00:00,Leicester,Nottingham Forest,4-2-3-1
+Premier League,2024,1208376,2025-05-11T15:30:00+00:00,Liverpool,Arsenal,4-2-3-1
+Premier League,2024,1208376,2025-05-11T15:30:00+00:00,Arsenal,Liverpool,4-3-3
+Premier League,2024,1208384,2025-05-16T18:30:00+00:00,Aston Villa,Tottenham,4-2-3-1
+Premier League,2024,1208384,2025-05-16T18:30:00+00:00,Tottenham,Aston Villa,4-2-3-1
+Premier League,2024,1208387,2025-05-16T19:15:00+00:00,Chelsea,Manchester United,4-2-3-1
+Premier League,2024,1208387,2025-05-16T19:15:00+00:00,Manchester United,Chelsea,3-4-2-1
+Premier League,2024,1208389,2025-05-18T11:00:00+00:00,Everton,Southampton,4-2-3-1
+Premier League,2024,1208389,2025-05-18T11:00:00+00:00,Southampton,Everton,3-4-2-1
+Premier League,2024,1208392,2025-05-18T13:15:00+00:00,West Ham,Nottingham Forest,3-4-1-2
+Premier League,2024,1208392,2025-05-18T13:15:00+00:00,Nottingham Forest,West Ham,4-3-1-2
+Premier League,2024,1208390,2025-05-18T14:00:00+00:00,Leicester,Ipswich,4-2-3-1
+Premier League,2024,1208390,2025-05-18T14:00:00+00:00,Ipswich,Leicester,4-2-3-1
+Premier League,2024,1208385,2025-05-18T14:00:00+00:00,Brentford,Fulham,4-2-3-1
+Premier League,2024,1208385,2025-05-18T14:00:00+00:00,Fulham,Brentford,4-2-3-1
+Premier League,2024,1208383,2025-05-18T15:30:00+00:00,Arsenal,Newcastle,4-3-3
+Premier League,2024,1208383,2025-05-18T15:30:00+00:00,Newcastle,Arsenal,3-4-2-1
+Premier League,2024,1208386,2025-05-19T19:00:00+00:00,Brighton,Liverpool,4-2-3-1
+Premier League,2024,1208386,2025-05-19T19:00:00+00:00,Liverpool,Brighton,4-2-3-1
+Premier League,2024,1208391,2025-05-20T19:00:00+00:00,Manchester City,Bournemouth,4-2-3-1
+Premier League,2024,1208391,2025-05-20T19:00:00+00:00,Bournemouth,Manchester City,4-2-3-1
+Premier League,2024,1208388,2025-05-20T19:00:00+00:00,Crystal Palace,Wolves,3-4-2-1
+Premier League,2024,1208388,2025-05-20T19:00:00+00:00,Wolves,Crystal Palace,3-4-2-1
+Premier League,2024,1208397,2025-05-25T15:00:00+00:00,Manchester United,Aston Villa,3-4-2-1
+Premier League,2024,1208397,2025-05-25T15:00:00+00:00,Aston Villa,Manchester United,4-2-3-1
+Premier League,2024,1208398,2025-05-25T15:00:00+00:00,Newcastle,Everton,3-4-3
+Premier League,2024,1208398,2025-05-25T15:00:00+00:00,Everton,Newcastle,4-2-3-1
+Premier League,2024,1208393,2025-05-25T15:00:00+00:00,Bournemouth,Leicester,4-2-3-1
+Premier League,2024,1208393,2025-05-25T15:00:00+00:00,Leicester,Bournemouth,4-2-3-1
+Premier League,2024,1208394,2025-05-25T15:00:00+00:00,Fulham,Manchester City,4-2-3-1
+Premier League,2024,1208394,2025-05-25T15:00:00+00:00,Manchester City,Fulham,4-2-3-1
+Premier League,2024,1208402,2025-05-25T15:00:00+00:00,Wolves,Brentford,3-4-2-1
+Premier League,2024,1208402,2025-05-25T15:00:00+00:00,Brentford,Wolves,4-2-3-1
+Premier League,2024,1208396,2025-05-25T15:00:00+00:00,Liverpool,Crystal Palace,4-2-3-1
+Premier League,2024,1208396,2025-05-25T15:00:00+00:00,Crystal Palace,Liverpool,3-4-2-1
+Premier League,2024,1208400,2025-05-25T15:00:00+00:00,Southampton,Arsenal,5-4-1
+Premier League,2024,1208400,2025-05-25T15:00:00+00:00,Arsenal,Southampton,4-2-3-1
+Premier League,2024,1208401,2025-05-25T15:00:00+00:00,Tottenham,Brighton,4-3-3
+Premier League,2024,1208401,2025-05-25T15:00:00+00:00,Brighton,Tottenham,4-4-2
+Premier League,2024,1208395,2025-05-25T15:00:00+00:00,Ipswich,West Ham,4-2-3-1
+Premier League,2024,1208395,2025-05-25T15:00:00+00:00,West Ham,Ipswich,3-1-4-2
+Premier League,2024,1208399,2025-05-25T15:00:00+00:00,Nottingham Forest,Chelsea,4-3-1-2
+Premier League,2024,1208399,2025-05-25T15:00:00+00:00,Chelsea,Nottingham Forest,4-2-3-1
