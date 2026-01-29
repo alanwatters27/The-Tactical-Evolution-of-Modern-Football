@@ -15,14 +15,9 @@ A data‑driven football analytics project exploring how tactical formations and
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-4479A1?logo=mysql\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau\&logoColor=white)
-![uv](https://img.shields.io/badge/uv-Environment-4CAF50)
+![uv](https://img.shields.io/badge/uv-Environme0A ew
 
----
-
-##
-A ew
-
-We are a team of data analysts examining how modern football tactics have changed over time and how those changes differ between leagues.
+We area team of data analysts examining how modern football tactics have changed over time and how those changes differ between leagues.
 
 Using **Api-football**, **StatsBomb Open Data**, this project analyses formations, shot locations, and goal patterns to understand how tactical decisions influence chance creation and shot quality.
 
@@ -55,13 +50,13 @@ This analysis is designed to support:
 
 | Dataset                  | Source              | Purpose                                                        |
 | ------------------------ | ------------------- | -------------------------------------------------------------- |
-| **Event Data**           | StatsBomb Open Data | Match events including shots, goals,API-Football       estamps |
-| **Lineups & Formations** | StatsBomb Open Data | Team formations and tactical setupsfootball‑data               |
-| **Match Metadata**       | StatsBomb Open Data | Competition, season, team, and match context                   |
-
-### Seasons Analysed
-
-To ensure methodological consistency and tactic2024-2025dern era:** 2018–2021 (latest publicly available StatsBomb seasons)
+| **Event Data**           | Sata |e                      vents including shots, goals,APAPI-Football       tamps |
+| **Lineups & Formations** | StatsBomb Open Data | Team formations and tactical setupsfofootball‑data             |
+| **Match Metadata**       | StatsBomb Open Data | Competition, season, team, andTo ensure methodological consistency and tactical relevance:
+
+Baseline season: 2015/16
+
+Modern era: 2024/2025era:** 2018–2021 (latest publicly available StatsBomb seasons)
 
 ---
 
@@ -108,11 +103,11 @@ This approach ensures accurate aggregations and enables flexible analysis across
 
 ---
 
-## 📊 Key Insights (Summary)
+#📊 Key Insight(Su**mmary)
 
-### 1️⃣ Tactical Structure Differences Between Leagues
+### **1️⃣ T**actical St**ructure Differences Between Leagues
 
-The formation analysis o**f matches in t**he Premier League and Bundesliga reveals clear structural differences between the two competitions. The Premier League shows a strong concentration around ****4‑3‑3** **and **4‑2‑3‑1** systems, indicating a relatively stable and standardised tactical profile. In contrast, the Bundesliga demonstrates **greater tactical diversity**, with more frequent use of **back‑three formations**, suggesting a higher degree of tactical experimentation in the most recent competitive period.
+The formation analysis o**f matches in t**he Premier League and Bundesliga reveals car structul differences between the two competitions. The Premier League shows a strong concentration around ****4‑3‑3** **and **4‑2‑3‑1** systems, indicating a relatively stable and standardised tactical profile. In contrast, the Bundesliga demonstrates **greater tactical diversity**, with more frequent use of **back‑three formations**, suggesting a higher degree of tactical experimentation in the most recent competitive period.
 
 ### 2️⃣ Formation Stability vs Tactical Openness
 
@@ -120,7 +115,7 @@ League‑wide comparisons highlight contrasting tactical identities. The Premier
 
 ### 3️⃣ Evolution of Goal Patterns Over Time
 
-For the baseline **2015/16 season**, match‑level formation and goal data allow for direct comparisons between tactical setup and goal output. However, equivalent formation‑level granularity is not available for the **2024/25 season**. As a result, modern goal efficiency is analysed **in relation to each league’s dominant tactical formations**, providing contextual — rather than causal — insight into how tactical trends a*nd scoring patterns h*ave evolved.
+For the baseline **2015/16 season**, match‑level formation and goal data allow for direct comparisons between tactical setup and goal output. However, equivalent formation‑level granularity is not available for the **2024/25 season**. As a result, modern goal efficiency is analysed **in relation to eac league’s dominant tatical formations**, providing contextual — rather than causal — insight into how tactical trends a*nd sco*ring patterns h*ave e*volved.
 
 ### 4️⃣ Cross‑Dataset Goal Analysis
 
