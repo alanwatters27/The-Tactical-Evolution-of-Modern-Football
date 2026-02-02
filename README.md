@@ -19,21 +19,15 @@ A data‑driven football analytics project exploring how tactical formations and
 
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python\&logoColor=white)
-
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas\&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy\&logoColor=white)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
-
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-4479A1?logo=mysql\&logoColor=white)
-
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627)
+![uv](https://img.shields.io/badge/uv-Environment-4CAF50)
 
-
-A data analysts examining how modern football tactics have changed over time and how those changes differ between leagues.
+A data analyst examining how modern football tactics have changed over time and how those changes differ between leagues.
 
 
 Using **Api-football**, **StatsBomb Open Data**, this project analyses formations, shot locations, and goal patterns to understand how tactical decisions influence chance creation and shot quality.
@@ -49,12 +43,16 @@ The project covers the full analytics workflow:
 
 * SQL‑based aggregation and modelling
 
-* Visual analytics and dashboard stgrityr
+* Visual analytics and dashboard storytelling
 
-Presentation: 
-  
-pretation for decision‑ [here](https://docs.google.com/presentation/d/18vW51AVmf-etWSPnNtHzqyC-3rtiF_SFlyckjzX9I4M/ediD515830/Sty?
-[here](https://public.tableau.com/app/profile/alan.watters4174/viz/Football_17697374515830/Story1?publish=yes).bard:** *(link to be added)*
+* Tactical interpretation for decision‑makers
+
+
+The presentation is available [here](https://docs.google.com/presentation/d/18vW51AVmf-etWSPnNtHzqyC-3rtiF_SFlyckjzX9I4M/edit?usp=sharing).
+
+---
+
+Tableau dashboard and sheets available [here](https://public.tableau.com/app/profile/alan.watters4174/viz/Football_17697374515830/Story1?publish=yes).
 
 
 
@@ -86,14 +84,18 @@ This analysis is designed to support:
 
 
 
-## 💾 Data Sou oject primarily uses open football data, enriched and structured for comparative analysis.
+
+## 💾Data Sources
+
+The project primarily uses open football data, enriched and structured for comparative analysis.
+
+| Dataset                        | Source                                                    | Purpose                                                                                    |
+| :----------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+| **Event Data**                 | StatsBomb Open Data                                       | Match events including shots, goals, locations, and timestamps                             |   
+| **Lineups & Formations**       | API Football                                              | Team formations and tactical setups per match                                              |
+| **Match Metadata**             | Football-Data                                             | Competition, season, team, and match context                                               |
 
 
-
-| Dataset                  | Source              | Purpose                                                        |
-
-| ------------------------ | ------------------- | ----------------------------------------------- StatsBomb Open Data-- Eata**           | Sata |e   c                                 luding shots, goals,APAPI-FootbAPI football       | **Lineups & Formations** | StatsBomb formations                  and tactical setupsfofootball‑Football data
-      | **Match Metadata**                                             |021 (latest publicly available StatsBomb seasons)
 
 
 
@@ -187,14 +189,14 @@ This approach ensures accurate aggregations and enables flexible analysis across
 
 
 
-#📊 Key Insig(Summary)
+📊 **Key Insights (Summary)**
 
 
-## *️⃣ Tactical Structure Differences 
+## 1️⃣ Tactical Structure Differences 
 
 
 
-The formation analysis of matches in t**he Premier League and Bundesliga reveals diffences between the two competitions. The Premier League shows a strong concentration around **4‑3‑3** and **4‑2‑3‑1** systems, indicating a relatively stable and standardised tactical profile. In contrast, the Bundesliga demonstrates **greater tactical diversity**, with more frequent use of **back‑three formations**, suggesting a higher degree of tactical experimentation in the most recent competitive period.
+The formation analysis of matches in the Premier League and Bundesliga reveals diffences between the two competitions. The Premier League shows a strong concentration around **4‑3‑3** and **4‑2‑3‑1** systems, indicating a relatively stable and standardised tactical profile. In contrast, the Bundesliga demonstrates **greater tactical diversity**, with more frequent use of **back‑three formations**, suggesting a higher degree of tactical experimentation in the most recent competitive period.
 
 
 
@@ -214,11 +216,10 @@ For the baseline **2015/16 season**, match‑level formation and goal data allow
 
 
 
-###* 4️⃣ Cross‑Dataset Goal Analysis
+### 4️⃣ Cross‑Dataset Goal Analysis
 
 
-
-Goal data for the **2024/25 season** was sourced from *football‑data.co.uk*, a widely used open repository for European football results. uhe d ataseet was processed in Python to compute league‑level goal distributions and scorUsagettical structures derived from StatsBomb Open Data.
+Goal data for the 2024/25 season was sourced from **football‑data.co.uk**, a widely used open repository for European football results. The dataset was processed in Python to compute league‑level goal distributions and scoring patterns, enabling a consistent comparison with historical tactical structures derived from StatsBomb Open Data.
 
 
 
@@ -280,5 +281,6 @@ Future extensions of this work could include:
 **Conclusion:**
 
 This analysis shows that tactical evolution in modern football is measurable, league‑specific, and increasingly focused on shot quality over shot volume. Data‑driven tactical analysis provides a powerful foundation for modern football decision‑making.
+
 
 
