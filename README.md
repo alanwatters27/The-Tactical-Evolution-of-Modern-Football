@@ -14,8 +14,9 @@ A data‑driven football analytics project exploring how tactical formations and
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-4479A1?logo=mysql\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau\&logoColor=white)
-![uv](https://img.shields.io/badge/uv-Environme0A ew
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau\&l![uv](https://img.shields.io/badge/uv-Environment-4CAF50)
+
+A 
 
 We area team of data analysts examining how modern football tactics have changed over time and how those changes differ between leagues.
 
@@ -27,10 +28,9 @@ The project covers the full analytics workflow:
 * Data cleaning and feature engineering
 * SQL‑based aggregation and modelling
 * Visual analytics and dashboard storytelling
-* Tactical interpretation for decision‑makers
-
-📊 **Presentation:** *(link to be added)*
-📈 **Tableau Dashboard:** *(link to be added)*
+* Tactical intes
+
+  pretation for decision‑ [here](https://docs.google.com/presentation/d/18vW51AVmf-etWSPnNtHzqyC-3rtiF_SFlyckjzX9I4M/edit?slide=id.p1#slide=id.p1).ntation:** *(link to be add[here](https://public.tableau.com/app/profile/alan.watters4174/viz/Football_17697374515830/Story1?publish=yes).ashboard:** *(link to be added)*
 
 ---
 
@@ -52,11 +52,7 @@ This analysis is designed to support:
 | ------------------------ | ------------------- | -------------------------------------------------------------- |
 | **Event Data**           | Sata |e                      vents including shots, goals,APAPI-Football       tamps |
 | **Lineups & Formations** | StatsBomb Open Data | Team formations and tactical setupsfofootball‑data             |
-| **Match Metadata**       | StatsBomb Open Data | Competition, season, team, andTo ensure methodological consistency and tactical relevance:
-
-Baseline season: 2015/16
-
-Modern era: 2024/2025era:** 2018–2021 (latest publicly available StatsBomb seasons)
+| **Match Metadata**       | StatsBomb Open Data | Competition, season, team, andTo ensure methodological consistency and tactical relev018–2021 (latest publicly available StatsBomb seasons)
 
 ---
 
@@ -99,15 +95,14 @@ Tableau **relationships** were used instead of hard joins to:
 * Avoid double counting when combining events, formations, and goal data
 * Allow Tableau to combine data only when required for a specific view
 
-This approach ensures accurate aggregations and enables flexible analysis across competitions, seasons, and tactical dimensions. The dashboard allows analysts and coaches to explore how **tactical formations relate to goal creation and shot quality**, supporting data‑driven tactical decision‑making.
+This approach ensures accurate aggregations and enables flexible analysis across competitions, seasons, and tactical dimensions. The dashboard allows analysts and coaches to explore how **tactical formations relate to goal creatn and shot quality* supportindata‑driven tactical decision‑making.
 
 ---
 
-#📊 Key Insight(Su**mmary)
+#📊 Key Insig(Su**mmary)
+## **1️⃣ T**actical St**ructure Differences Between Leagues
 
-### **1️⃣ T**actical St**ructure Differences Between Leagues
-
-The formation analysis o**f matches in t**he Premier League and Bundesliga reveals car structul differences between the two competitions. The Premier League shows a strong concentration around ****4‑3‑3** **and **4‑2‑3‑1** systems, indicating a relatively stable and standardised tactical profile. In contrast, the Bundesliga demonstrates **greater tactical diversity**, with more frequent use of **back‑three formations**, suggesting a higher degree of tactical experimentation in the most recent competitive period.
+The formation analysis o**f matches in t**he Premier League and Bundesliga reveals car suctul diffences between the two competitions. The Premier League shows a strong concentration around ****4‑3‑3** **and **4‑2‑3‑1** systems, indicating a relatively stable and standardised tactical profile. In contrast, the Bundesliga demonstrates **greater tactical diversity**, with more frequent use of **back‑three formations**, suggesting a higher degree of tactical experimentation in the most recent competitive period.
 
 ### 2️⃣ Formation Stability vs Tactical Openness
 
@@ -115,11 +110,11 @@ League‑wide comparisons highlight contrasting tactical identities. The Premier
 
 ### 3️⃣ Evolution of Goal Patterns Over Time
 
-For the baseline **2015/16 season**, match‑level formation and goal data allow for direct comparisons between tactical setup and goal output. However, equivalent formation‑level granularity is not available for the **2024/25 season**. As a result, modern goal efficiency is analysed **in relation to eac league’s dominant tatical formations**, providing contextual — rather than causal — insight into how tactical trends a*nd sco*ring patterns h*ave e*volved.
+For the baseline **2015/16 season**, match‑level formation and goal data allow for direct comparisons between tactical setup and goal output. However, equivalent formation‑level granularity is not available for the **2024/25 season**. As a result, modern goal efficiency is analysed **in relation to eac league’s dominant tatical formations**, providing contextual — rather than causal — insight into how tactical trends a*nd sco*ring patt*erns h*ave e*volved.*
 
 ### 4️⃣ Cross‑Dataset Goal Analysis
 
-Goal data for the **2024/25 season** was sourced from *football‑data.co.uk*, a widely used open repository for European football results. The dataset was processed in Python to compute league‑level goal distributions and scoring patterns, enabling a consistent comparison with historical tactical structures derived from StatsBomb Open Data.
+Goal data for the **2024/25 season** was sourced from *football‑data.co.uk*, a widely used open repository for European football results. The dataset was processed in Python to compute league‑level goal distributions and scoring patterns, enabling Usagescal tactical structures derived from StatsBomb Open Data.
 
 ---
 
